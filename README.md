@@ -1,1 +1,2 @@
 # Bluetooth-RC-Car
+This project involves designing and building a basic RC Bluetooth-controlled car using IoT principles. The car is operated wirelessly through a smartphone via Bluetooth communication. A microcontroller receives control commands and drives the motors accordingly, enabling forward, backward, left, and right movement. The project demonstrates fundamentals of embedded systems, wireless communication, motor control, and real-time hardware–software integration, making it a practical introduction to IoT-based automation systems.
